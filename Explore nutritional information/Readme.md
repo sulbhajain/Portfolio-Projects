@@ -1,4 +1,4 @@
-## objective is to determine which country consumes the most alcohol per capita.
+## objective is to explore nutrient data
 exploring a dataset from the United States Department of Agriculture (USDA). This dataset contains nutritional information on the most common foods Americans consume. Each column in the dataset shows a different attribute of the foods and each row describes a different food item.
 
 Here are some of the columns in the dataset:
