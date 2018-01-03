@@ -19,3 +19,4 @@ First Project - This is web project for Python and Django, implementing basic fl
 Gender Gap in college degrees - Using visualizations by Python pandas package, we'll explore how we can communicate the nuanced narrative of gender gap using effective data visualization
 
 Study NY public school - The project explores NYC schools and their class, demographic, results for SAT score Year wise. Later this studies correlation and plots using matplotlib.
+
