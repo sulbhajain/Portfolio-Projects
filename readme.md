@@ -20,3 +20,4 @@ Gender Gap in college degrees - Using visualizations by Python pandas package, w
 
 Study NY public school - The project explores NYC schools and their class, demographic, results for SAT score Year wise. Later this studies correlation and plots using matplotlib.
 
+
