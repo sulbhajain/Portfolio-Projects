@@ -1,4 +1,4 @@
-#Big Cities Health Inventory Platform
+# Big Cities Health Inventory Platform
 
 the Big Cities Health Inventory (BCHI) data platform has more than 50 indicators that look at health status, death rates, and other socio-economic and demographic factors that affect the health of a community.
 
