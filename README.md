@@ -2,7 +2,7 @@
 
 Here I present few of the many projects undertaken during my endeavour to hone and thrive on my Data Science skills. These projects showcase my experiences of below packages, algorithms with interesting insights usable for taking key business decisions. The projects are updated regularly as and when new concepts are learned and implemented. So this repository always remains "work in progress " :)
 
-###Python
+### Python
 #### Pandas
 #### Numpy
 #### Data Exploration
