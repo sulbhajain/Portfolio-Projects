@@ -16,7 +16,7 @@ Apply deep learning to complex data and acquire prediction using neural networks
 ### Data Exploration and Visualization
 There is no data science without getting the feel of data. The projects in python walk thru importing data, plotting relationships and building the understanding of the features of data.
 
-###Data Science Experience                                                                                                2015-Present
+### Data Science Experience                                                                                                2015-Present
 
 Hand gesture prediction, 2018
 Classification modeling to predict hand written digits based on black and white images of size 28 x 28 pixels. Imported vector formatted data stored as 2-dimensional matrix. Defined network parameters and developed multi-layer perceptron model with RELU activation, weights and biases. Minimized the cost (loss) using AdamOptimizer. Achieved 94% accuracy in the predictions. 
