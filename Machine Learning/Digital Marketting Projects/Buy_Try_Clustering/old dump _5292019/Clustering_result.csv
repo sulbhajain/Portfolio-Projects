@@ -1,0 +1,16 @@
+,,Paid Order Exists,Try Exists,Total Visits,New Visitors,Return Visitors,Enter PDP from Office.com,Enter PDP from Store,Enter PDP from O365 Web,Time Spent per Visit (seconds),Average Time Spent on Site (seconds),Link Clicks (e4),Link Clicks on OverviewTab,Link Clicks on TechSpecsTab,Link Clicks on ReviewTab,Link Clicks on FAQTab,Link Clicks on AddtoCartButton,Link Clicks on Trial link,kmeans
+,0,0.242,0,1.204,0.955,0.045,0,1,0.031,383.137,234.443,22.74,0,0.007,0.003,0.003,0.225,0.208,0
+,1,0.09,0,1.097,0,1,0,0.308,0.412,353.526,271.839,15.874,0.001,0.018,0.004,0.016,0.133,0.064,1
+,2,0.052,0,1.107,1,0,0,0.006,0.685,342.842,214.127,17.144,0,0.018,0.006,0.004,0.129,0.168,2
+"Confused User (not convert), enter from Store and click all tabs",3,0,0,1.75,0.5,0.5,0,0.813,0.25,2034.396,1814.499,83.938,1.063,1.75,1.063,0.438,0.875,0.25,3
+,4,0,1,1.06,0.56,0.44,0.02,0.36,0.38,528.5,470.308,35.36,0,0,0.02,0,0.24,0.3,4
+Partial Paid convert but confused,5,0.122,0,1.49,0.245,0.755,0.082,0.429,0.531,3285.097,2809.646,149.592,0,0.367,0.082,0.184,2.51,0.878,5
+,6,0.127,0,1.088,0.569,0.431,1.049,0.02,0.01,473.311,318.811,21.814,0,0.02,0.02,0,0.225,0.422,6
+,,,,,,,,,,,,,,,,,,,
+,1    730,,,,,,,,,,,,,,,,,,
+,2    543,,,,,,,,,,,,,,,,,,
+,0    289,,,,,,,,,,,,,,,,,,
+,6    102,,,,,,,,,,,,,,,,,,
+,4     50,,,,,,,,,,,,,,,,,,
+,5     49,,,,,,,,,,,,,,,,,,
+,3     16,,,,,,,,,,,,,,,,,,

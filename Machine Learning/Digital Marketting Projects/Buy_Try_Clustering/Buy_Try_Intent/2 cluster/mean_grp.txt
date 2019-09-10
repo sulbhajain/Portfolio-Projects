@@ -1,0 +1,43 @@
+Visits                                    1.000000
+New Visitors Exists                       0.610973
+Return Visitors Exists                    0.389027
+Enter from Office.com                     0.052369
+Enter from Store                          0.356608
+Enter from O365 Web                       0.296758
+Traffic Channel O&O                       0.364090
+Traffic Channel Direct                    0.311721
+Traffic Channel Organic Search            0.124688
+Traffic Channel Paid Search               0.184539
+Time Spent per Visit (seconds)          603.390746
+Average Time Spent on Page (seconds)    112.851103
+Link Clicks                              32.628429
+Link Clicks on tab-OverviewTab            0.000000
+Link Clicks on tab-TechSpecsTab           0.014963
+Link Clicks on tab-ReviewsTab             0.002494
+Link Clicks on tab-FAQTab                 0.009975
+Link Clicks on AddToCartButton            0.271820
+Link Clicks on Try Link                   0.022444
+RPV                                      58.431172
+
+Paid Orders Exists                        0.000000
+Free Orders Exists                        1.000000
+Visits                                    1.000000
+New Visitors Exists                       0.618557
+Return Visitors Exists                    0.381443
+Enter from Office.com                     0.030928
+Enter from Store                          0.350515
+Enter from O365 Web                       0.381443
+Traffic Channel O&O                       0.288660
+Traffic Channel Direct                    0.257732
+Traffic Channel Organic Search            0.185567
+Traffic Channel Paid Search               0.216495
+Time Spent per Visit (seconds)          439.817204
+Average Time Spent on Page (seconds)    163.789474
+Link Clicks                              26.051546
+Link Clicks on tab-OverviewTab            0.000000
+Link Clicks on tab-TechSpecsTab           0.000000
+Link Clicks on tab-ReviewsTab             0.010101
+Link Clicks on tab-FAQTab                 0.000000
+Link Clicks on AddToCartButton            0.060606
+Link Clicks on Try Link                   0.101010
+RPV                                       0.000000
